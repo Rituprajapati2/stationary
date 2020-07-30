@@ -1,0 +1,2 @@
+Options -Indexes
+ErrorDocument 403 "You do not have permissions to open this directory."
